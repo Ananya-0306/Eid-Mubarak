@@ -13,4 +13,4 @@
 [linkedin]: https://www.linkedin.com/in/ananya-chatterjee-%F0%9F%87%AE%F0%9F%87%B3-125223172/
 [Facebook]: https://www.facebook.com/profile.php?id=100015892354534
 
-<img src="https://github.com/Ananya-0306/India/blob/main/India/india_galance.png" alt="नमस्ते भारत" />
+<img src="https://github.com/Ananya-0306/Eid-Mubarak/blob/main/eid-feature-1.jpg" alt="ईद मुबारक" />
